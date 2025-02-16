@@ -47,6 +47,6 @@ Other Tools and Technologies
 
 ## 📈 Github stats
 <p><img src="https://github-readme-stats.vercel.app/api?username=smlopezsm&theme=dark&show_icons=true"/>
-&nbsp;<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=smlopezsm&theme=dark&layout=compact" width="354" /></p>
+&nbsp;<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=smlopezsm&theme=dark&layout=compact" width="355" /></p>
 
 
