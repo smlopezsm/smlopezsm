@@ -44,3 +44,9 @@ Other Tools and Technologies
 <a href="https://www.linkedin.com/in/santiago-jose-lopez-mendes/">
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
+
+## 📈 Github stats
+<p><img src="https://github-readme-stats.vercel.app/api?username=smlopezsm&theme=dark&show_icons=true"/>
+&nbsp;<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=smlopezsm&theme=dark&layout=compact" width="354" /></p>
+
+
